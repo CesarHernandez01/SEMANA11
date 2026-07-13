@@ -1,0 +1,5 @@
+Una plataforma de este tipo maneja información sobre personas reales y sus acciones dentro de la comunidad, por lo que necesita estos tres elementos:
+
+Base de datos: porque necesita guardar de forma organizada y persistente las causas, los apoyos y los usuarios, permitiendo consultarlos, actualizarlos y hacerles seguimiento en el tiempo (no seria funcional si la información se perdiera al cerrar la app).
+Autenticación de usuarios: porque hay que verificar la identidad de quien participa, para evitar apoyos falsos o duplicados, dar seguimiento real a la participación ciudadana y permitir que cada usuario gestione solo su propia información.
+Protección de información: porque al tratarse de datos de ciudadanos (nombres, apoyos, posibles causas sensibles), es fundamental cuidar su privacidad y seguridad, evitando exponer datos personales que puedan usarse indebidamente o poner en riesgo a las personas involucradas.

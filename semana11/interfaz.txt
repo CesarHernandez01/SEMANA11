@@ -1,0 +1,17 @@
+Interfaz simple de la plataforma comunitaria
+
+1. Formulario para crear una causa:
+   Campos: título, descripción, fecha.
+   Botón "Publicar causa" para guardarla en el sistema.
+
+2. Vista de causas disponibles:
+   Lista o tarjetas con las causas existentes, mostrando título, 
+   descripción breve y número de apoyos.
+
+3. Botón para apoyar una causa:
+   Cada causa tiene un botón "Apoyar" que el usuario autenticado 
+   puede presionar para registrar su apoyo.
+
+4. Contador de apoyos:
+   Junto a cada causa se muestra el número total de personas 
+   que la han apoyado, actualizado en tiempo real.
